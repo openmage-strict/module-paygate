@@ -1,0 +1,5 @@
+src/app/code/core/Mage/Paygate/                                 app/code/core/Mage/Paygate/
+src/app/design/adminhtml/default/default/template/paygate/      app/design/adminhtml/default/default/template/paygate/
+src/app/design/frontend/base/default/template/paygate/          app/design/frontend/base/default/template/paygate/
+src/app/etc/modules/Mage_Paygate.xml                            app/etc/modules/Mage_Paygate.xml
+src/app/locale/en_US/Mage_Paygate.csv                           app/locale/en_US/Mage_Paygate.csv
