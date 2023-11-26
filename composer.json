@@ -5,6 +5,6 @@
     "type": "magento-module",
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "openmage-strict/module-payment": "*"
+        "openmage-strict/module-payment": "^120.2"
     }
 }
